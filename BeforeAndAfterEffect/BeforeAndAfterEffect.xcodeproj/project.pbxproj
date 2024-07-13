@@ -12,6 +12,7 @@
 		A963D7FA2C422BF600845443 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A963D7F92C422BF600845443 /* ViewController.swift */; };
 		A963D7FF2C422BF700845443 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A963D7FE2C422BF700845443 /* Assets.xcassets */; };
 		A963D8022C422BF700845443 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = A963D8012C422BF700845443 /* Base */; };
+		A963D80A2C42462F00845443 /* BeforeAndAfterEffectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A963D8092C42462F00845443 /* BeforeAndAfterEffectViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A963D7FE2C422BF700845443 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A963D8012C422BF700845443 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A963D8032C422BF700845443 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A963D8092C42462F00845443 /* BeforeAndAfterEffectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeforeAndAfterEffectViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A963D7F52C422BF600845443 /* AppDelegate.swift */,
 				A963D7F72C422BF600845443 /* SceneDelegate.swift */,
 				A963D7F92C422BF600845443 /* ViewController.swift */,
+				A963D8092C42462F00845443 /* BeforeAndAfterEffectViewController.swift */,
 				A963D7FE2C422BF700845443 /* Assets.xcassets */,
 				A963D8002C422BF700845443 /* LaunchScreen.storyboard */,
 				A963D8032C422BF700845443 /* Info.plist */,
@@ -137,6 +140,7 @@
 				A963D7FA2C422BF600845443 /* ViewController.swift in Sources */,
 				A963D7F62C422BF600845443 /* AppDelegate.swift in Sources */,
 				A963D7F82C422BF600845443 /* SceneDelegate.swift in Sources */,
+				A963D80A2C42462F00845443 /* BeforeAndAfterEffectViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
